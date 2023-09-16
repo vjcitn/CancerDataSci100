@@ -31,7 +31,7 @@ Suggests:
     dplyr, DT, ggbeeswarm, ggplot2,
 	plotly, tibble, YESCDS
 Remotes:
-    github::js2264/BiocBook
+    github::js2264/BiocBook,
     github::vjcitn/YESCDS
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
