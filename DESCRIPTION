@@ -1,10 +1,10 @@
 Package: CancerDataSci100
-Title: What the Package Does (One Line, Title Case)
+Title: Demonstration of BiocBook
 Description: 
-    This sentence is a placeholder. It should be changed by the author of 
-    the package to describe the purpose of this BiocBook. 
-    It should be at least 3 sentences otherwise `BiocCheck` will complain.
-Version: 0.99.0
+    Demonstration of BiocBook.
+    Demonstration of BiocBook.
+    Demonstration of BiocBook.
+Version: 0.99.1
 Date: `r date()`
 Authors@R: 
     person(
@@ -27,9 +27,12 @@ Suggests:
     glue,
     sessioninfo, 
     knitr, 
-    quarto
+    quarto,
+    dplyr, DT, ggbeeswarm, ggplot2,
+	plotly, tibble, YESCDS
 Remotes:
     github::js2264/BiocBook
+    github::vjcitn/YESCDS
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
