@@ -2,6 +2,8 @@ book:
   title: "CancerDataSci100"
   chapters:
     - index.qmd
+    - pages/counting-cancers.qmd
+    - pages/cancer-across-the-globe.qmd
   cover-image: assets/cover.png
   favicon: assets/favicon.png
   sidebar: 
